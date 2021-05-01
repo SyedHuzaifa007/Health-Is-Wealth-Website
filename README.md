@@ -1,2 +1,2 @@
 # Health-Is-Wealth-Website
-This repository contains all the code for Health Is Wealth Website It.
+This repository contains all the code for Health Is Wealth Website It is.
